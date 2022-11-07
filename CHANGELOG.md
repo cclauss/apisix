@@ -1096,7 +1096,7 @@ This release is mainly to strengthen the stability of the code and add more docu
 
 - ci: remove patch which is no longer necessary and removed in the upst. [#1090](https://github.com/apache/incubator-apisix/pull/1090)
 - fix path error when install with luarocks. [#1068](https://github.com/apache/incubator-apisix/pull/1068)
-- travis: run a apisix instance which intalled by luarocks. [#1063](https://github.com/apache/incubator-apisix/pull/1063)
+- travis: run a apisix instance which installed by luarocks. [#1063](https://github.com/apache/incubator-apisix/pull/1063)
 
 ### Plugins
 
